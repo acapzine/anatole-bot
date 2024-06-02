@@ -11,4 +11,5 @@ note: when creating the link to add the bot, make sure the bot has these permiss
 - Ban Members
 - Kick Members
 - Send Messages
+
 also, turn on all the intents

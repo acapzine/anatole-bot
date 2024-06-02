@@ -13,3 +13,10 @@ note: when creating the link to add the bot, make sure the bot has these permiss
 - Send Messages
 
 also, turn on all the intents
+
+to run the bot: `node .` or `npm run start`; `npm run start` also registers the commands
+
+installed console commands:
+- `npm run start`: registers/deploys application (/) commands & starts the bot
+- `npm run register`: registers/deploys application (/) commands
+- `npm run delete`: deletes all application (/) commands
